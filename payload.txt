@@ -7,7 +7,7 @@ REM Target: Unix-like operating systems with systemd
 REM Attackmodes: HID
 
 REM [Note]
-REM Visit https://github.com/drapl0n/DuckyLogger/README.md for usage and other important instructions.
+REM Visit https://github.com/drapl0n/DuckyLogger for usage and other important instructions.
 
 REM [keeping tracks clear]
 DELAY 500
